@@ -19,7 +19,7 @@ Simple implementation multi select drop down
 <h2>Example of code</h2>
 
 
-    < elect multiple="multiple"  name="exemple" id="exemple">
+    <select multiple="multiple"  name="exemple" id="exemple">
 	<option value="1">test 1</option>
 	<option value="2">test 2</option>
 	<option value="3">test 3</option>

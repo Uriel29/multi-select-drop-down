@@ -2,6 +2,8 @@
 
 # multi-select-drop-down
 
+Simple implementation multi select drop down 
+
 ```html
 
 
@@ -10,7 +12,7 @@
 
 ```
 
-Simple implementation multi select drop down 
+
 
 
 

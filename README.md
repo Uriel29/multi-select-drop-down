@@ -1,6 +1,7 @@
 
 
 # multi-select-drop-down
+# Jquery minimum 1.7
 
 Simple implementation multi select drop down 
 
@@ -29,7 +30,7 @@ Simple implementation multi select drop down
 
 <script src="jquery.multiple.select.js"></script>
     <script>
-         jQuery('select').multipleSelect();
+         $('select').multipleSelect();
     </script>
     
 
